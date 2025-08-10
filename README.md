@@ -1,6 +1,6 @@
 # Keratoacanthoma Spatial Transcriptomics Analysis
 
-This repository contains code and resources for my diploma thesis project on spatial transcriptomics analysis of keratoacanthoma tissue. 
+This repository contains code and resources for my diploma thesis project on spatial transcriptomics analysis of human skin tissue. 
 
 ## Project Overview
 The goal of this project is to preprocess, visualize, and perform exploratory analysis of spatial transcriptomics data to investigate spatial gene expression patterns in keratoacanthoma in comparison to cutaneous squanous cell carcinoma and healthy tissue. 
