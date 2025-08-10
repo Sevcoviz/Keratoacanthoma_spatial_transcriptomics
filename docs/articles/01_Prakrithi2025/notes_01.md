@@ -216,5 +216,3 @@ cell cell interaction analysis (MMCCI) approach
     * CSF1R, LTB, and LTBR among top 50 correlated genes for melanoma spatial expression (Fig 8f)
     * Genome-wide significant SNPs linked to T cell and melanoma marker genes show strongest Manhattan plot signals
     * Suggests melanoma heritability is strongly influenced by effects on T cells and melanocytes
-* Conclusion:
-    * Integrative spatial and genetic analysis reveals consistent and generalizable patterns linking genetic risk to specific cell types and spatial microenvironments in skin cancers
