@@ -4,3 +4,11 @@ pandas
 anndata
 scanpy
 matplotlib
+squidpy
+
+pyarrow
+seaborn
+zarr
+tifffile
+shapely
+geopandas
