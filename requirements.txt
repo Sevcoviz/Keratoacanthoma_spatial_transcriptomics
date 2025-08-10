@@ -1,0 +1,11 @@
+numpy       # Numerical computing in Python
+pandas       # Data manipulation and analysis
+matplotlib   # Plotting library for creating static, interactive, and animated visualizations
+scipy       # Computing library built on NumPy, includes algorithms and tools
+pickle5      # Enhanced version of Python’s built-in pickle module for object serialization
+
+anndata      # Annotated data structure for handling single-cell and spatial omics data
+scanpy       # Toolkit for analyzing single-cell gene expression data, including spatial transcriptomics
+
+os
+warnings
