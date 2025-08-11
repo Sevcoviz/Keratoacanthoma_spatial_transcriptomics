@@ -12,3 +12,4 @@ zarr
 tifffile
 shapely
 geopandas
+spatialdata_io

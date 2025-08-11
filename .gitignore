@@ -210,3 +210,4 @@ __marimo__/
 
 # Personal Files to ignore
 data/
+notebooks/01_preprocessing.ipynb
