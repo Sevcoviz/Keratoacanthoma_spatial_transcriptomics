@@ -2,7 +2,10 @@ This folder is dedicated to storing the theoretical research, literature notes, 
 
 📁 /notes
     ├── note.md                 ← This file
+    
     ├── references/               ← Citation files, reference managers exports (e.g., .bib, .ris)
+    
     ├── drafts/                 ← Partial or full chapter drafts
+    
     └── archive/                ← Old versions or outdated material for reference
 
