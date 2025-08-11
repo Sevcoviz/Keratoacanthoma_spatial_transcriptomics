@@ -7,8 +7,11 @@ The goal of this project is to preprocess, visualize, and perform exploratory an
 
 ## Current work
 - analysis of Xenium In Situ Gene Expression data for adult human skin sections using the Xenium Human Multi-Tissue and Cancer Panel publicaly available at: https://www.10xgenomics.com/datasets/human-skin-data-xenium-human-multi-tissue-and-cancer-panel-1-standard
-- notes for latest article (see ~/docs/articles/01_Prakrithi2025/notes_01.md, see https://skincanceratlas.com/)
-- dataset loading and preprocessing (see ~/notebooks/01_preprocesing.ipynb)
+  * see notebooks/00_initial_look_at_dataset.ipynb
+- notes for latest articles
+  * ~/docs/theory/articles/01_Prakrithi2025/notes_01.md, see https://skincanceratlas.com/
+  * ~/docs/theory/articles/03_Veenstra2023/Veenstra2023.md, Comparison of Keratoacanthoma and cSCC using single-cell spatial pathology
+- dataset loading and preprocessing (see ~/notebooks/00_initial_look_at_dataset.ipynb)
 
 ## Planned Features
 - Data preprocessing and quality control
