@@ -14,11 +14,9 @@ The goal of this project is to preprocess, visualize, and perform exploratory an
 - dataset loading and preprocessing (see ~/notebooks/00_initial_look_at_dataset.ipynb)
 
 ## Planned Features
-- Data preprocessing and quality control in python and R
 - **Data analysis from the 01_Prakrithi2025 article**, see: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-11932?query=skin
-- Spatial gene expression visualization
-- Exploratory data analysis
-- Additional analyses as the project develops
+- Utilize Python and also R 
+- Additional analyses as the project develops 
 
 ## How to Use
 Clone the repository:
