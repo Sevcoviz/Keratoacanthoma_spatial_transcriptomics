@@ -15,6 +15,7 @@ The goal of this project is to preprocess, visualize, and perform exploratory an
 
 ## Planned Features
 - Data preprocessing and quality control in python and R
+- **Data analysis from the 01_Prakrithi2025 article**, see: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-11932?query=skin
 - Spatial gene expression visualization
 - Exploratory data analysis
 - Additional analyses as the project develops
